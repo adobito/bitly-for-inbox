@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0mPackaging /Users/Zaiber/Documents/workspace/bitly-for-inbox/target/scala-2.11/bitly-for-inbox_2.11-1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	application.conf[0m
+[0m[[0mdebug[0m] [0m	  /Users/Zaiber/Documents/workspace/bitly-for-inbox/conf/application.conf[0m
+[0m[[0mdebug[0m] [0m	routes[0m
+[0m[[0mdebug[0m] [0m	  /Users/Zaiber/Documents/workspace/bitly-for-inbox/conf/routes[0m
+[0m[[0mdebug[0m] [0m	controllers/Application.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/Zaiber/Documents/workspace/bitly-for-inbox/app/controllers/Application.scala[0m
+[0m[[0mdebug[0m] [0m	controllers/InboxHook.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/Zaiber/Documents/workspace/bitly-for-inbox/app/controllers/InboxHook.scala[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
